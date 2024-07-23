@@ -7,7 +7,7 @@ Field of Study: AI & Macxhine Learning
 Date: 2020-2024
 
 ### Work Experience
-Growth Intern
+**Growth Intern**
 StratPal Limited · Internship
 
 Jun 2024 - Present 
@@ -21,7 +21,8 @@ Lagos, Lagos State, Nigeria · Remote
 - Analyzing data to provide actionable insights and recommendations for growth.
 - Perform other tasks that might be assigned by the supervisor
 
-Data Analyst Intern
+
+**Data Analyst Intern**
 ACME software lab · Internship
 
 Jun 2024 - Aug 2024 
@@ -33,7 +34,8 @@ Nigeria · Remote
 - Created Data Visualization dashboards that effectively communicated data insights
 - Built interactive dashboards analyzing information from different datasets
 
-Data Analyst Intern
+
+**Data Analyst Intern**
 Mentorness · Internship
 
 Jun 2024 - Jul 2024 · 2 mos
@@ -44,7 +46,8 @@ Ahmedabad, Gujarat, India · Remote
 - Created Data Visualization dashboards that effectively communicated data insights
 - Built interactive dashboards analyzing information from different datasets
 
-VC Deal Sourcing Extern
+
+**VC Deal Sourcing Extern**
 igniteXL Ventures · Internship
 
 Jun 2024 - Jul 2024 
@@ -56,7 +59,8 @@ Palo Alto, California, United States · Remote
 - Identified potential business startups for igniteXL Ventures
 - Created concise and impactful investment summaries on business startups incorporating research insights and recommendations.
 
-Business Development & Sales Extern
+
+**Business Development & Sales Extern**
 Thematic · Internship
 
 Feb 2024 - Mar 2024 · 2 mos
