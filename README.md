@@ -13,6 +13,7 @@ StratPal Limited · Internship
 Jun 2024 - Present 
 
 Lagos, Lagos State, Nigeria · Remote
+
 ● Conducting market research and analysis to identify growth opportunities.
 ● Assisting in the development and execution of digital marketing campaigns.
 ● Supporting the sales team with lead generation and customer outreach.
@@ -22,8 +23,11 @@ Lagos, Lagos State, Nigeria · Remote
 
 Data Analyst Intern
 ACME software lab · Internship
+
 Jun 2024 - Aug 2024 
+
 Nigeria · Remote
+
 - Data Collection and Extraction - gathered data from various sources including databases & surveys
 - Data Sorting and Cleaning - Identify and correct errors or inconsistencies in the data to ensure accuracy.
 - Created Data Visualization dashboards that effectively communicated data insights
@@ -31,7 +35,9 @@ Nigeria · Remote
 
 Data Analyst Intern
 Mentorness · Internship
+
 Jun 2024 - Jul 2024 · 2 mos
+
 Ahmedabad, Gujarat, India · Remote
  helped me get this jobLinkedIn helped me get this job
 - Data Collection and Extraction
@@ -40,7 +46,9 @@ Ahmedabad, Gujarat, India · Remote
 
 VC Deal Sourcing Extern
 igniteXL Ventures · Internship
+
 Jun 2024 - Jul 2024 
+
 Palo Alto, California, United States · Remote
 - Conducted in-depth research using platforms like Crunchbase & the internet to gather data and insights.
 - Practiced variable estimation techniques such as market sizing and revenue projection.
@@ -50,7 +58,9 @@ Palo Alto, California, United States · Remote
 
 Business Development & Sales Extern
 Thematic · Internship
+
 Feb 2024 - Mar 2024 · 2 mos
+
 Culver City, California, United States · Remote
 - Identified potential content creators for Thematic network
 - Participated in developing business development strategies
