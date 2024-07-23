@@ -8,6 +8,7 @@ Date: 2020-2024
 
 ### Work Experience
 **Growth Intern**
+
 StratPal Limited · Internship
 
 Jun 2024 - Present 
@@ -23,6 +24,7 @@ Lagos, Lagos State, Nigeria · Remote
 
 
 **Data Analyst Intern**
+
 ACME software lab · Internship
 
 Jun 2024 - Aug 2024 
@@ -36,6 +38,7 @@ Nigeria · Remote
 
 
 **Data Analyst Intern**
+
 Mentorness · Internship
 
 Jun 2024 - Jul 2024 · 2 mos
@@ -48,6 +51,7 @@ Ahmedabad, Gujarat, India · Remote
 
 
 **VC Deal Sourcing Extern**
+
 igniteXL Ventures · Internship
 
 Jun 2024 - Jul 2024 
@@ -61,6 +65,7 @@ Palo Alto, California, United States · Remote
 
 
 **Business Development & Sales Extern**
+
 Thematic · Internship
 
 Feb 2024 - Mar 2024 · 2 mos
