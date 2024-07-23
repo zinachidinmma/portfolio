@@ -14,12 +14,12 @@ Jun 2024 - Present
 
 Lagos, Lagos State, Nigeria · Remote
 
-● Conducting market research and analysis to identify growth opportunities.
-● Assisting in the development and execution of digital marketing campaigns.
-● Supporting the sales team with lead generation and customer outreach.
-● Collaborating with the partnerships team to identify and manage business development opportunities.
-● Analyzing data to provide actionable insights and recommendations for growth.
-● Perform other tasks that might be assigned by the supervisor
+- Conducting market research and analysis to identify growth opportunities.
+- Assisting in the development and execution of digital marketing campaigns.
+- Supporting the sales team with lead generation and customer outreach.
+- Collaborating with the partnerships team to identify and manage business development opportunities.
+- Analyzing data to provide actionable insights and recommendations for growth.
+- Perform other tasks that might be assigned by the supervisor
 
 Data Analyst Intern
 ACME software lab · Internship
@@ -39,7 +39,7 @@ Mentorness · Internship
 Jun 2024 - Jul 2024 · 2 mos
 
 Ahmedabad, Gujarat, India · Remote
- helped me get this jobLinkedIn helped me get this job
+
 - Data Collection and Extraction
 - Created Data Visualization dashboards that effectively communicated data insights
 - Built interactive dashboards analyzing information from different datasets
