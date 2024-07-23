@@ -8,9 +8,11 @@ Date: 2020-2024
 
 ### Work Experience
 Growth Intern
-StratPal Limited · InternshipStratPal Limited · Internship
+StratPal Limited · Internship
+
 Jun 2024 - Present 
-Lagos, Lagos State, Nigeria · RemoteLagos, Lagos State, Nigeria · Remote
+
+Lagos, Lagos State, Nigeria · Remote
 ● Conducting market research and analysis to identify growth opportunities.
 ● Assisting in the development and execution of digital marketing campaigns.
 ● Supporting the sales team with lead generation and customer outreach.
